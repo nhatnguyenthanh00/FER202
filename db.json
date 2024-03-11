@@ -1,0 +1,126 @@
+{
+    "role": [
+        {
+            "id": 1,
+            "name": "Admin"
+        },
+        {
+            "id": 2,
+            "name": "User"
+        },
+        {
+            "id": 3,
+            "name": "Medical"
+        },
+        {
+            "id": 4,
+            "name": "Beauty"
+        },
+        {
+            "id": 5,
+            "name": "Consulting"
+        }
+    ],
+    "status":[
+        {
+            "id": 0,
+            "name": "Pending"
+        },
+        {
+            "id": 1,
+            "name": "Approved"
+        },
+        {
+            "id": 2,
+            "name": "Rejected"
+        },
+        {
+            "id": 3,
+            "name": "Done"
+        }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "name": "Admin NTN",
+            "roleId": 1
+        },
+        {
+            "id": 2,
+            "username": "user",
+            "password": "user",
+            "name": "user",
+            "roleId": 2
+        },
+        {
+            "id": 3,
+            "username": "medical",
+            "password": "medical",
+            "name": "medical",
+            "roleId": 3
+        },
+        {
+            "id": 4,
+            "username": "beauty",
+            "password": "beauty",
+            "name": "beauty",
+            "roleId": 4
+        },
+        {
+            "id": 5,
+            "username": "consulting",
+            "password": "consulting",
+            "name": "consulting",
+            "roleId": 5
+        }
+    ],
+    "appointment": [
+        {
+            "id": 1,
+            "clientid": 2,
+            "staffid": 3,
+            "date": "16/03/2024",
+            "time": "10:00",
+            "statusId": 0,
+            "description": ""
+        },
+        {
+            "id": 2,
+            "clientid": 2,
+            "staffid": 4,
+            "date": "16/03/2024",
+            "time": "10:00",
+            "statusId": 0,
+            "description": ""
+        },
+        {
+            "id": 3,
+            "clientid": 2,
+            "staffid": 5,
+            "date": "16/03/2024",
+            "time": "10:00",
+            "statusId": 0,
+            "description": ""
+        },
+        {
+            "id": 4,
+            "clientid": 2,
+            "staffid": 3,
+            "date": "18/03/2024",
+            "time": "10:00",
+            "statusId": 1,
+            "description": ""
+        },
+        {
+            "id": 5,
+            "clientid": 2,
+            "staffid": 4,
+            "date": "16/03/2024",
+            "time": "10:00",
+            "statusId": 2,
+            "description": ""
+        }
+    ]
+}
