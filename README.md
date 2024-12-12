@@ -10,7 +10,6 @@ In the project directory, run the following command to start the JSON Server (mo
 ### `json-server --watch database.json --port 9999`
 
 This will run a local server that watches the database.json file for changes.\
-
 Now, in another terminal window, run the React development server:
 
 ### `npm start`
