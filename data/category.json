@@ -1,0 +1,34 @@
+{
+    "Category": [
+        {
+            "id": 1,
+            "Category_Name": "Samsung",
+            "Logo": ""
+        },
+        {
+            "id": 2,
+            "Category_Name": "Xiaomi",
+            "Logo": ""
+        },
+        {
+            "id": 3,
+            "Category_Name": "Vivo",
+            "Logo": ""
+        },
+        {
+            "id": 4,
+            "Category_Name": "Iphone",
+            "Logo": ""
+        },
+        {
+            "id": 5,
+            "Category_Name": "Oppo",
+            "Logo": ""
+        },
+        {
+            "id": 6,
+            "Category_Name": "Nokia",
+            "Logo": ""
+        }
+    ]
+}

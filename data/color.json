@@ -1,0 +1,2059 @@
+{
+  "Color": [
+    {
+      "id": 1,
+      "ProductId": 1,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957658354316100_samsung-galaxy-z-flip4-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957703261967280_samsung-galaxy-z-flip4-tim-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957703260561099_samsung-galaxy-z-flip4-tim-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957703262279890_samsung-galaxy-z-flip4-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957703261029822_samsung-galaxy-z-flip4-tim-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 2,
+      "ProductId": 1,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957685772850661_samsung-galaxy-z-flip4-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957700437699588_samsung-galaxy-z-flip4-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957700437855801_samsung-galaxy-z-flip4-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957700438168293_samsung-galaxy-z-flip4-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957700436762112_samsung-galaxy-z-flip4-vang-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 3,
+      "ProductId": 1,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957695058070860_samsung-galaxy-z-flip4-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957697655463466_samsung-galaxy-z-flip4-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957697655775913_samsung-galaxy-z-flip4-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957697654057091_samsung-galaxy-z-flip4-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957697656088373_samsung-galaxy-z-flip4-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957697654057091_samsung-galaxy-z-flip4-xanh-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 4,
+      "ProductId": 1,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957667752370272_samsung-galaxy-z-flip4-xam-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957705398565613_samsung-galaxy-z-flip4-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957705399190579_samsung-galaxy-z-flip4-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957705397471946_samsung-galaxy-z-flip4-xam-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957705399190579_samsung-galaxy-z-flip4-xam-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957705397784495_samsung-galaxy-z-flip4-xam-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 5,
+      "ProductId": 2,
+      "ColorName": "Tím",
+      "Image": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/23/637941779749495327_samsung-galaxy-s22-bora-purple-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/23/637941779748870189_samsung-galaxy-s22-bora-purple-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/23/637941779746995258_samsung-galaxy-s22-bora-purple-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/23/637941779749182644_samsung-galaxy-s22-bora-purple-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 6,
+      "ProductId": 2,
+      "ColorName": "Xanh",
+      "Image": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800490165751486_samsung-galaxy-s22-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800490168251580_samsung-galaxy-s22-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800490168095254_samsung-galaxy-s22-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800490165751486_samsung-galaxy-s22-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800490166689038_samsung-galaxy-s22-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 7,
+      "ProductId": 2,
+      "ColorName": "Đen",
+      "Image": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800498484893706_samsung-galaxy-s22-den-12.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800498488331169_samsung-galaxy-s22-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800498482237371_samsung-galaxy-s22-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800498484581502_samsung-galaxy-s22-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/10/637800498482393649_samsung-galaxy-s22-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 8,
+      "ProductId": 3,
+      "ColorName": "Xanh",
+      "Image": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/2/638108933021851432_samsung-galaxy-s23-ultra-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122555347721262_samsung-galaxy-s23-ultra-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122555347096362_samsung-galaxy-s23-ultra-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122555348189869_samsung-galaxy-s23-ultra-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122555346625094_samsung-galaxy-s23-ultra-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 9,
+      "ProductId": 3,
+      "ColorName": "Đen",
+      "Image": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/2/638108941585078058_samsung-galaxy-s23-ultra-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122552532122734_samsung-galaxy-s23-ultra-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122552531139428_samsung-galaxy-s23-ultra-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122552532435910_samsung-galaxy-s23-ultra-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122552530982554_samsung-galaxy-s23-ultra-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122552530025434_samsung-galaxy-s23-ultra-den-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 10,
+      "ProductId": 3,
+      "ColorName": "Kem",
+      "Image": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/2/638108945003723972_samsung-galaxy-s23-ultra-kem-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122557391864458_samsung-galaxy-s23-ultra-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122557391218604_samsung-galaxy-s23-ultra-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122557391864458_samsung-galaxy-s23-ultra-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122557391061748_samsung-galaxy-s23-ultra-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122557389911691_samsung-galaxy-s23-ultra-vang-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 11,
+      "ProductId": 3,
+      "ColorName": "Tím",
+      "Image": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/2/638108937882519991_samsung-galaxy-s23-ultra-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122553820300451_samsung-galaxy-s23-ultra-tim-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122553819519472_samsung-galaxy-s23-ultra-tim-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122553821892454_samsung-galaxy-s23-ultra-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122553819363190_samsung-galaxy-s23-ultra-tim-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/17/638122553818425630_samsung-galaxy-s23-ultra-vang-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 12,
+      "ProductId": 4,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/4/10/638167221773541058_samsung-galaxy-z-fold4-do-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/4/10/638167221773487338_samsung-galaxy-z-fold4-do-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/4/10/638167221773541058_samsung-galaxy-z-fold4-do-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/4/10/638167221773017443_samsung-galaxy-z-fold4-do-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/4/10/638167221773017443_samsung-galaxy-z-fold4-do-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/4/10/638167221772697488_samsung-galaxy-z-fold4-do-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 13,
+      "ProductId": 4,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957717267975494_samsung-galaxy-z-fold4-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957717267662603_samsung-galaxy-z-fold4-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957717268287829_samsung-galaxy-z-fold4-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957717265943906_samsung-galaxy-z-fold4-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957717267662603_samsung-galaxy-z-fold4-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957717265006368_samsung-galaxy-z-fold4-xanh-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 14,
+      "ProductId": 4,
+      "ColorName": "Kem",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957721237564298_samsung-galaxy-z-fold4-kem-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957721237720533_samsung-galaxy-z-fold4-kem-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957721238501939_samsung-galaxy-z-fold4-kem-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957721235689301_samsung-galaxy-z-fold4-kem-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957721237095589_samsung-galaxy-z-fold4-kem-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957721234751791_samsung-galaxy-z-fold4-kem-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 15,
+      "ProductId": 4,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957713446663124_samsung-galaxy-z-fold4-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957713446350652_samsung-galaxy-z-fold4-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957713447131891_samsung-galaxy-z-fold4-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957713444475706_samsung-galaxy-z-fold4-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957713445413115_samsung-galaxy-z-fold4-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957713443381857_samsung-galaxy-z-fold4-den-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 16,
+      "ProductId": 5,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204338060434614_samsung-galaxy-a34-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144927833361384_samsung-galaxy-a34-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204338060747119_samsung-galaxy-a34-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204338060590865_samsung-galaxy-a34-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144927832252282_samsung-galaxy-a34-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 17,
+      "ProductId": 5,
+      "ColorName": "Bạc",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204339293842132_samsung-galaxy-a34-bac-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144925776138301_samsung-galaxy-a34-bac-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204339295125243_samsung-galaxy-a34-bac-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204339295282260_samsung-galaxy-a34-bac-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144925775893546_samsung-galaxy-a34-bac-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 18,
+      "ProductId": 5,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204339295125243_samsung-galaxy-a34-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144923424497714_samsung-galaxy-a34-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204339298267881_samsung-galaxy-a34-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204339293608450_samsung-galaxy-a34-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144923424184250_samsung-galaxy-a34-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 19,
+      "ProductId": 6,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204321010051997_samsung-galaxy-a54-5g-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144940396733063_samsung-galaxy-a54-5g-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204321010209230_samsung-galaxy-a54-5g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204321009255866_samsung-galaxy-a54-5g-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144940395951814_samsung-galaxy-a54-5g-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 20,
+      "ProductId": 6,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204321010051997_samsung-galaxy-a54-5g-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144941703409088_samsung-galaxy-a54-5g-tim-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204321008943386_samsung-galaxy-a54-5g-tim-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204321009412140_samsung-galaxy-a54-5g-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144941703150056_samsung-galaxy-a54-5g-tim-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 21,
+      "ProductId": 6,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204318788102307_samsung-galaxy-a54-5g-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144938463426766_samsung-galaxy-a54-5g-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204318787939063_samsung-galaxy-a54-5g-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204318788583311_samsung-galaxy-a54-5g-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144938462721074_samsung-galaxy-a54-5g-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 22,
+      "ProductId": 7,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362401987928_samsung-galaxy-a14-4g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/3/638134395341470562_samsung-galaxy-a14-4g-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362404830463_samsung-galaxy-a14-4g-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362401887460_samsung-galaxy-a14-4g-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/3/638134395341162795_samsung-galaxy-a14-4g-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 23,
+      "ProductId": 7,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204361011751586_samsung-galaxy-a14-4g-do-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/3/638134385007492536_samsung-galaxy-a14-4g-do-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204361012010554_samsung-galaxy-a14-4g-do-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204361010609333_samsung-galaxy-a14-4g-do-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/3/638134385010085870_samsung-galaxy-a14-4g-do-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 24,
+      "ProductId": 7,
+      "ColorName": "Bạc",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362404674287_samsung-galaxy-a14-4g-bac-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/3/638134391881955943_samsung-galaxy-a14-4g-bac-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362404986727_samsung-galaxy-a14-4g-bac-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362402175588_samsung-galaxy-a14-4g-bac-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/3/638134391881475817_samsung-galaxy-a14-4g-bac-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 25,
+      "ProductId": 8,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017839470367776_samsung-galaxy-a23-5g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017839469512037_samsung-galaxy-a23-5g-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017839468843303_samsung-galaxy-a23-5g-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017839462986316_samsung-galaxy-a23-5g-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 26,
+      "ProductId": 8,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017838324659333_samsung-galaxy-a23-5g-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017838322637804_samsung-galaxy-a23-5g-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017838316964065_samsung-galaxy-a23-5g-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017838322800166_samsung-galaxy-a23-5g-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017838317020278_samsung-galaxy-a23-5g-xanh-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 27,
+      "ProductId": 8,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/25/638049964324594060_samsung-galaxy-a23-5g-bac-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/25/638049964324124755_samsung-galaxy-a23-5g-bac-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/25/638049964322534212_samsung-galaxy-a23-5g-bac-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/25/638049964324437820_samsung-galaxy-a23-5g-bac-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/25/638049964322281563_samsung-galaxy-a23-5g-bac-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 28,
+      "ProductId": 9,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204338060434614_samsung-galaxy-a34-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144927833361384_samsung-galaxy-a34-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204338060747119_samsung-galaxy-a34-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204338060590865_samsung-galaxy-a34-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/15/638144927832252282_samsung-galaxy-a34-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 29,
+      "ProductId": 9,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394274328482_samsung-galaxy-a04s-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987521300360592_samsung-galaxy-a04s-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394276524614_samsung-galaxy-a04s-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394276938739_samsung-galaxy-a04s-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987521298329140_samsung-galaxy-a04s-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 30,
+      "ProductId": 9,
+      "ColorName": "Đồng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394274484741_samsung-galaxy-a04s-nau-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987716785525370_samsung-galaxy-a04s-nau-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394273235233_samsung-galaxy-a04s-nau-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394279063054_samsung-galaxy-a04s-nau-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987527402025386_samsung-galaxy-a04s-nau-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 31,
+      "ProductId": 10,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396773490668_samsung-galaxy-a04-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/11/638011087809998171_samsung-galaxy-a04-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396770989233_samsung-galaxy-a04-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396774170321_samsung-galaxy-a04-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/11/638011087809373150_samsung-galaxy-a04-xanh-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 32,
+      "ProductId": 10,
+      "ColorName": "Đồng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396770676643_samsung-galaxy-a04-cam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/11/638011089920600882_samsung-galaxy-a04-cam-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396770520239_samsung-galaxy-a04-cam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396774012504_samsung-galaxy-a04-cam-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/11/638011089920131860_samsung-galaxy-a04-cam-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 33,
+      "ProductId": 10,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396769573258_samsung-galaxy-a04-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/11/638011085202339359_samsung-galaxy-a04-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396769573258_samsung-galaxy-a04-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204398244541782_samsung-galaxy-a04-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/11/638011085201750240_samsung-galaxy-a04-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 34,
+      "ProductId": 11,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594774669_xiaomi-redmi-10-2022-xam-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594484913_xiaomi-redmi-10-2022-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594655382_xiaomi-redmi-10-2022-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594655382_xiaomi-redmi-10-2022-xam-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594484913_xiaomi-redmi-10-2022-xam-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 35,
+      "ProductId": 11,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/12/21/638072287030090738_Xiaomi-Redmi-10A-2GB-32GB-xanh-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 36,
+      "ProductId": 11,
+      "ColorName": "Bạc",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/12/21/638072287029391755_Xiaomi-Redmi-10A-2GB-32GB-bac-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 37,
+      "ProductId": 12,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594774669_xiaomi-redmi-10-2022-xam-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594484913_xiaomi-redmi-10-2022-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594655382_xiaomi-redmi-10-2022-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594655382_xiaomi-redmi-10-2022-xam-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594484913_xiaomi-redmi-10-2022-xam-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 38,
+      "ProductId": 12,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877751179526332_xiaomi-redmi-10-2022-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877751179526332_xiaomi-redmi-10-2022-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877751179526332_xiaomi-redmi-10-2022-trang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877751179682610_xiaomi-redmi-10-2022-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877751179526332_xiaomi-redmi-10-2022-trang-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 39,
+      "ProductId": 12,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742148683703_xiaomi-redmi-10-2022-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742149308617_xiaomi-redmi-10-2022-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742149161019_xiaomi-redmi-10-2022-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742149464908_xiaomi-redmi-10-2022-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742149161019_xiaomi-redmi-10-2022-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 40,
+      "ProductId": 13,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/22/638150992294466598_xiaomi-redmi-note-12-xam-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/22/638150992294624107_xiaomi-redmi-note-12-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/22/638150992293521303_xiaomi-redmi-note-12-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/22/638150992294466598_xiaomi-redmi-note-12-xam-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/22/638150992293041764_xiaomi-redmi-note-12-xam-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 41,
+      "ProductId": 13,
+      "ColorName": "Xanh dương",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150994081801970_xiaomi-redmi-note-12-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150994081019706_xiaomi-redmi-note-12-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150994079785529_xiaomi-redmi-note-12-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150994080863420_xiaomi-redmi-note-12-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150994079269073_xiaomi-redmi-note-12-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 42,
+      "ProductId": 13,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150991182170532_xiaomi-redmi-note-12-xanh-la-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150991181776743_xiaomi-redmi-note-12-xanh-la-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150991180770360_xiaomi-redmi-note-12-xanh-la-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150991181586413_xiaomi-redmi-note-12-xanh-la-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/22/638150991180296445_xiaomi-redmi-note-12-xanh-la-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 43,
+      "ProductId": 14,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125128408536178_xiaomi-13-lite-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125128406872246_xiaomi-13-lite-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125128407297140_xiaomi-13-lite-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125128407297140_xiaomi-13-lite-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125128406559868_xiaomi-13-lite-den-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 44,
+      "ProductId": 14,
+      "ColorName": "Xanh dương",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188590918_xiaomi-13-lite-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188590918_xiaomi-13-lite-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188173606_xiaomi-13-lite-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188698712_xiaomi-13-lite-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125187702557_xiaomi-13-lite-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 45,
+      "ProductId": 15,
+      "ColorName": "Xanh dương",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188590918_xiaomi-13-lite-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188590918_xiaomi-13-lite-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188173606_xiaomi-13-lite-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125188698712_xiaomi-13-lite-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125125187702557_xiaomi-13-lite-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 46,
+      "ProductId": 15,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/30/638001571506654078_xiaomi-redmi-a1-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/30/638001571511810353_xiaomi-redmi-a1-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/30/638001571506341605_xiaomi-redmi-a1-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/30/638001571506341605_xiaomi-redmi-a1-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/30/638001571505404236_xiaomi-redmi-a1-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 47,
+      "ProductId": 16,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646675311035_xiaomi-redmi-12c-xam-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646674864025_xiaomi-redmi-12c-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646675115995_xiaomi-redmi-12c-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646674627859_xiaomi-redmi-12c-xam-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646673521195_xiaomi-redmi-12c-xam-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 48,
+      "ProductId": 16,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138659476267794_xiaomi-redmi-12c-xanh-la-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138659473867123_xiaomi-redmi-12c-xanh-la-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138659474122548_xiaomi-redmi-12c-xanh-la-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138659476067815_xiaomi-redmi-12c-xanh-la-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138659473105768_xiaomi-redmi-12c-xanh-la-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 49,
+      "ProductId": 16,
+      "ColorName": "Xanh dương",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138653071050722_xiaomi-redmi-12c-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138653070970905_xiaomi-redmi-12c-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138653070940914_xiaomi-redmi-12c-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138653070930011_xiaomi-redmi-12c-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138653069270722_xiaomi-redmi-12c-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 50,
+      "ProductId": 17,
+      "ColorName": "Xanh đậm",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/1/27/637788719726788724_xiaomi-redmi-note-11-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/1/27/637788719726320348_xiaomi-redmi-note-11-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/1/27/637788719727101248_xiaomi-redmi-note-11-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/1/27/637788719726320348_xiaomi-redmi-note-11-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 51,
+      "ProductId": 17,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/27/637788717449466537_xiaomi-redmi-note-11-xam-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/27/637788717449310378_xiaomi-redmi-note-11-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/27/637788717448997874_xiaomi-redmi-note-11-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/27/637788717448997874_xiaomi-redmi-note-11-xam-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 52,
+      "ProductId": 18,
+      "ColorName": "Xanh đậm",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804380953725497_xiaomi-redmi-note-11s-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804380953569173_xiaomi-redmi-note-11s-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804380953569173_xiaomi-redmi-note-11s-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804380953412961_xiaomi-redmi-note-11s-xanh-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 53,
+      "ProductId": 19,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673212874594_2.xiaomi-redmi-note-11-pro-4g-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673213499589_2.xiaomi-redmi-note-11-pro-4g-trang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673213499589_2.xiaomi-redmi-note-11-pro-4g-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673223655752_2.xiaomi-redmi-note-11-pro-4g-trang-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 54,
+      "ProductId": 19,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673210218283_2.xiaomi-redmi-note-11-pro-4g-xam-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673210843396_2.xiaomi-redmi-note-11-pro-4g-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673210218283_2.xiaomi-redmi-note-11-pro-4g-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673212405813_2.xiaomi-redmi-note-11-pro-4g-xam-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 55,
+      "ProductId": 19,
+      "ColorName": "Xanh dương",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673209905859_2.xiaomi-redmi-note-11-pro-4g-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673209905859_2.xiaomi-redmi-note-11-pro-4g-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673209593347_2.xiaomi-redmi-note-11-pro-4g-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673208812132_2.xiaomi-redmi-note-11-pro-4g-xanh-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 56,
+      "ProductId": 20,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125113177912131_xiaomi-13-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125113177536951_xiaomi-13-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125113177285682_xiaomi-13-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125113177912131_xiaomi-13-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125113176973257_xiaomi-13-den-2.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 57,
+      "ProductId": 20,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125111639884515_xiaomi-13-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125111639884515_xiaomi-13-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125111638788241_xiaomi-13-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125111639884515_xiaomi-13-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125111638788241_xiaomi-13-xanh-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 58,
+      "ProductId": 21,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/10/638036697912517443_vivo-v25-pro-5g-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/1/638029226814135898_vivo-v25-pro-5g-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/10/638036697912302156_vivo-v25-pro-5g-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/10/638036699326710321_vivo-v25-pro-5g-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/1/638029226813667067_vivo-v25-pro-5g-xanh-2.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 59,
+      "ProductId": 21,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/10/638036697912732913_vivo-v25-pro-5g-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/1/638029229002242328_vivo-v25-pro-5g-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/10/638036697912302156_vivo-v25-pro-5g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/10/638036697912569991_vivo-v25-pro-5g-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/1/638029229001630390_vivo-v25-pro-5g-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 60,
+      "ProductId": 22,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987658871975174_vivo-v25e-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987658871037581_vivo-v25e-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987658871193920_vivo-v25e-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987658871662599_vivo-v25e-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987658869475958_vivo-v25e-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 61,
+      "ProductId": 22,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987661253728881_vivo-v25e-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987661252010120_vivo-v25e-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987661253885128_vivo-v25e-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987661253416302_vivo-v25e-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987661250760087_vivo-v25e-vang-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 62,
+      "ProductId": 23,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987654398636993_vivo-v25e-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987654398011997_vivo-v25e-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987654398636993_vivo-v25e-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987654398480767_vivo-v25e-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987654397074596_vivo-v25e-vang-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 63,
+      "ProductId": 24,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/18/638016883147092027_vivo-y35-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/18/638016883146309342_vivo-y35-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/18/638016883145208659_vivo-y35-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/18/638016883144256822_vivo-y35-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/18/638016883143540631_vivo-y35-vang-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 64,
+      "ProductId": 24,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016881307034282_vivo-y35-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016881305463289_vivo-y35-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016881307034282_vivo-y35-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016881305629285_vivo-y35-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016881303776431_vivo-y35-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 65,
+      "ProductId": 25,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983398316214932_vivo-y22s-xanh-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983398315433788_vivo-y22s-xanh-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/15/637961779017076277_vivo-y22s-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983398315746205_vivo-y22s-xanh-8.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/15/637961779016763701_vivo-y22s-xanh-2.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 66,
+      "ProductId": 25,
+      "ColorName": "Xanh đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/9/637983398316214932_vivo-y22s-den-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/9/637983398315433788_vivo-y22s-den-8.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/15/637961779017076277_vivo-y22s-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/9/637983398315746205_vivo-y22s-den-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/15/637961779016920068_vivo-y22s-den-2.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 67,
+      "ProductId": 26,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995440901432_vivo-t1x-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995438088872_vivo-t1x-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/21/637939997025297340_vivo-t1x-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995439182671_vivo-t1x-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995425276231_vivo-t1x-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 68,
+      "ProductId": 26,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995440588921_vivo-t1x-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995435588873_vivo-t1x-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995434807681_vivo-t1x-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995438245175_vivo-t1x-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/21/637939998284378493_vivo-t1x-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 69,
+      "ProductId": 27,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983383787837357_vivo-y16-vang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983383787528657_vivo-y16-vang-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/29/637973623420693075_vivo-y16-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983383787528657_vivo-y16-vang-8.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/29/637973623420068240_vivo-y16-vang-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 70,
+      "ProductId": 27,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/9/637983383787837357_vivo-y16-den-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/9/637983383787368693_vivo-y16-den-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/29/637973623420693075_vivo-y16-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/9/637983383787528657_vivo-y16-den-8.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/29/637973623420068240_vivo-y16-den-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 71,
+      "ProductId": 28,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822857276078_00779950-vivo-y15s-trang-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822856963587_00779950-vivo-y15s-trang-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822855869782_00779950-vivo-y15s-trang-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822860869927_00779950-vivo-y15s-trang-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822857588559_00779950-vivo-y15s-trang-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 72,
+      "ProductId": 28,
+      "ColorName": "Xanh đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707824369475682_00779951-vivo-y15s--xanh-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707824369475682_00779951-vivo-y15s--xanh-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707824369475682_00779951-vivo-y15s--xanh-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707824370413165_00779951-vivo-y15s--xanh-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707824370100838_00779951-vivo-y15s--xanh-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 73,
+      "ProductId": 29,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/28/638052549038602052_vivo-y02-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/28/638052549038602052_vivo-y02-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/28/638052549038276135_vivo-y02-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/28/638052549037807412_vivo-y02-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/28/638052549038915168_vivo-y02-xanh-2.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 74,
+      "ProductId": 29,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/28/638052551478354733_vivo-y02-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/28/638052551478397731_vivo-y02-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/28/638052551478397731_vivo-y02-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/28/638052551478397731_vivo-y02-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/28/638052551477668204_vivo-y02-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 75,
+      "ProductId": 30,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794898480222_vivo-y02s-3gb-32gb-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794897386586_vivo-y02s-3gb-32gb-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794897230231_vivo-y02s-3gb-32gb-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794897855406_vivo-y02s-3gb-32gb-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794893480185_vivo-y02s-3gb-32gb-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 76,
+      "ProductId": 30,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794898167877_vivo-y02s-3gb-32gb-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794896136507_vivo-y02s-3gb-32gb-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794896917745_vivo-y02s-3gb-32gb-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794897386586_vivo-y02s-3gb-32gb-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794892698930_vivo-y02s-3gb-32gb-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 77,
+      "ProductId": 31,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309890101717_iphone-11-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309889944934_iphone-11-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309889626302_iphone-11-trang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309889626302_iphone-11-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309890257934_iphone-11-trang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309890726780_iphone-11-trang-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 78,
+      "ProductId": 31,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059306728859551_iphone-11-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059306729015793_iphone-11-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059306729015793_iphone-11-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059306728547044_iphone-11-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059306728859551_iphone-11-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059306729960073_iphone-11-den-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 79,
+      "ProductId": 32,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237853240136_iphone-12-xanhla-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237853083337_iphone-12-xanhla-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237852757989_iphone-12-xanhla-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237853240136_iphone-12-xanhla-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237852920204_iphone-12-xanhla-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237853240136_iphone-12-xanhla-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237855486250_iphone-12-xanhla-7.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 80,
+      "ProductId": 32,
+      "ColorName": "Xanh dương",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059236214534473_iphone-12-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059236215530590_iphone-12-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059236213882089_iphone-12-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059236215530590_iphone-12-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059236214039255_iphone-12-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059236214540519_iphone-12-xanh-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059236216168498_iphone-12-xanh-7.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 81,
+      "ProductId": 32,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059219869727250_iphone-12-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059219869883593_iphone-12-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059219869258478_iphone-12-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059219871758481_iphone-12-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059219869258478_iphone-12-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059219870196020_iphone-12-den-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059219871602235_iphone-12-den-7.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 82,
+      "ProductId": 32,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059234481574752_iphone-12-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059234481574752_iphone-12-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059234481106033_iphone-12-trang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059234481574752_iphone-12-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059234481106033_iphone-12-trang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059234481887272_iphone-12-trang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059234483865737_iphone-12-trang-7.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 83,
+      "ProductId": 32,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059230891032843_iphone-12-do-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059230891032843_iphone-12-do-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059230890689010_iphone-12-do-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059230891745638_iphone-12-do-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059230890875946_iphone-12-do-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059230891345320_iphone-12-do-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059230892846211_iphone-12-do-7.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 84,
+      "ProductId": 32,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059232363845825_iphone-12-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059232363674839_iphone-12-tim-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059232363050040_iphone-12-tim-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059232363845825_iphone-12-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059232363362296_iphone-12-tim-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059232364352124_iphone-12-tim-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059232365251782_iphone-12-tim-7.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 85,
+      "ProductId": 33,
+      "ColorName": "Hồng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864948054568276_iphone-13-hong-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864948054724502_iphone-13-hong-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864948054724502_iphone-13-hong-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864948056130773_iphone-13-hong-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864948055193343_iphone-13-hong-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 86,
+      "ProductId": 33,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864945997429464_iphone-13-do-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864946000085710_iphone-13-do-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864945997585739_iphone-13-do-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864945997429464_iphone-13-do-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864945998054414_iphone-13-do-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 87,
+      "ProductId": 33,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864944636979062_iphone-13-xanhla-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864944635572783_iphone-13-xanhla-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864944635416624_iphone-13-xanhla-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864944634322932_iphone-13-xanhla-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864944635572783_iphone-13-xanhla-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 89,
+      "ProductId": 33,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864946617759009_iphone-13-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864946616352782_iphone-13-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864946611919843_iphone-13-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864946612857368_iphone-13-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864946615415276_iphone-13-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 90,
+      "ProductId": 33,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864950181732958_iphone-13-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864950178607504_iphone-13-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864950178294966_iphone-13-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864950178607504_iphone-13-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864950178607504_iphone-13-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 91,
+      "ProductId": 33,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864949258532597_iphone-13-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864949259157858_iphone-13-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864949257126391_iphone-13-trang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864949258532597_iphone-13-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864949259157858_iphone-13-trang-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 92,
+      "ProductId": 34,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054091427671235_ip-14-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921564597853_iphone-14-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565477479_iphone-14-trang-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217016907_iphone-14-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217819916_iphone-14-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639215376224_iphone-14-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127642851966020_iphone-14-trang-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 93,
+      "ProductId": 34,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054088819837718_ip-14-do-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921570765389_iphone-14-do-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565687118_iphone-14-do-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217016907_iphone-14-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217819916_iphone-14-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639215376224_iphone-14-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127643976631617_iphone-14-do-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 94,
+      "ProductId": 34,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054092490170033_ip-14-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921570665374_iphone-14-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565407165_iphone-14-xanh-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217016907_iphone-14-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217819916_iphone-14-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639215376224_iphone-14-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127645598505486_iphone-14-xanh-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 95,
+      "ProductId": 34,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/7/638138235534641283_iphone-14-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344511049099_iphone-14-vang-8.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344507595294_iphone-14-14plus-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344507282841_iphone-14-14plus-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344506968733_iphone-14-14plus-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344506786231_iphone-14-14plus-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344507439166_iphone-14-14plus-vang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344506368397_iphone-14-14plus-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155344512455809_iphone-14-vang-9.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 96,
+      "ProductId": 34,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054090260153672_ip-14-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921569328245_iphone-14-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565407165_iphone-14-tim-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217016907_iphone-14-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217819916_iphone-14-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639215376224_iphone-14-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127645598332357_iphone-14-tim-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 97,
+      "ProductId": 34,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054086797665958_ip-14-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921566699895_iphone-14-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565245564_iphone-14-den-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217016907_iphone-14-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217819916_iphone-14-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639215376224_iphone-14-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639850747462_iphone-14-den-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 98,
+      "ProductId": 35,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054169483299865_ip-14-plus-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921564597853_iphone-14-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565477479_iphone-14-trang-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775949738_iphone-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775616514_iphone-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775140076_iphone-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127675898102452_iphone-14-plus-trang-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 99,
+      "ProductId": 35,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054168094224737_ip-14-plus-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921569328245_iphone-14-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565407165_iphone-14-tim-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775949738_iphone-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775616514_iphone-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775140076_iphone-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127671398815929_iphone-14-plus-tim-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 100,
+      "ProductId": 35,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054170881553427_ip-14-plus-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921570665374_iphone-14-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565407165_iphone-14-xanh-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775949738_iphone-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775616514_iphone-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775140076_iphone-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127672785783412_iphone-14-plus-xanh-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 101,
+      "ProductId": 35,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054163867313882_ip-14-plus-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921566699895_iphone-14-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565245564_iphone-14-den-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775949738_iphone-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775616514_iphone-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775140076_iphone-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127674478721958_iphone-14-plus-den-6.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 102,
+      "ProductId": 35,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054166106341023_ip-14-plus-do-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921570765389_iphone-14-do-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565687118_iphone-14-do-7.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775949738_iphone-14-plus-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775616514_iphone-14-plus-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667776112348_iphone-14-plus-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667775140076_iphone-14-plus-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127667975460962_iphone-14-plus-do-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 103,
+      "ProductId": 35,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/7/638138235534661110_iphone-14-plus-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339348604045_iphone-14plus-vang-9.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339468456031_iphone-14-14plus-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339466737329_iphone-14-14plus-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339468456031_iphone-14-14plus-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339466737329_iphone-14-14plus-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339468927310_iphone-14-14plus-vang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339465955253_iphone-14-14plus-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/27/638155339348604045_iphone-14plus-vang-7.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 104,
+      "ProductId": 36,
+      "ColorName": "Bạc",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054205618721510_ip-14-pro-bac-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139587930405930_iphone-14pro-trang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139587931205518_iphone-14pro-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148889498908_iphone-14pro-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148591300895_iphone-14pro-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148590235752_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148592275042_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148589874966_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148890455626_iphone-14pro-trang-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 105,
+      "ProductId": 36,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054215482172772_ip-14-pro-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139585349327778_iphone-14pro-vang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139585351063475_iphone-14pro-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148891342049_iphone-14pro-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148591300895_iphone-14pro-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148590235752_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148592275042_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148589874966_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148891010598_iphone-14pro-vang-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 106,
+      "ProductId": 36,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054213959247730_ip-14-pro-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139575856757694_iphone-14pro-tim-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139575856281592_iphone-14pro-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148886977341_iphone-14pro-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148591300895_iphone-14pro-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148590235752_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148592275042_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148589874966_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148885556719_iphone-14pro-tim-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 107,
+      "ProductId": 36,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054212873983148_ip-14-pro-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139579497269864_iphone-14pro-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139579498434541_iphone-14pro-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148886039852_iphone-14pro-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148591300895_iphone-14pro-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148590235752_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148592275042_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148589874966_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129148886039852_iphone-14pro-den-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 108,
+      "ProductId": 37,
+      "ColorName": "Bạc",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054217303176240_ip-14-pro-max-bac-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139587930405930_iphone-14pro-trang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139587931205518_iphone-14pro-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176746627261_iphone-14prm-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877496345_iphone-14promax-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176875910469_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176880563423_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877756103_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176745783085_iphone-14prm-trang-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 109,
+      "ProductId": 37,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054218956629637_ip-14-pro-max-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139579497269864_iphone-14pro-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139579498434541_iphone-14pro-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129177601274543_iphone-14prm-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877496345_iphone-14promax-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176875910469_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176880563423_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877756103_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129177600949647_iphone-14prm-den-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 110,
+      "ProductId": 37,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054222139728415_ip-14-pro-max-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139585349327778_iphone-14pro-vang-6.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139585351063475_iphone-14pro-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176747279005_iphone-14prm-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877496345_iphone-14promax-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176875910469_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176880563423_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877756103_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176746370419_iphone-14prm-vang-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 111,
+      "ProductId": 37,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054220350691584_ip-14-pro-max-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139575856757694_iphone-14pro-tim-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139575856281592_iphone-14pro-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129177601901651_iphone-14prm-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877496345_iphone-14promax-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176875910469_iphone-14pro-14prm-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176880563423_iphone-14pro-14prm-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129176877756103_iphone-14pro-14prm-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/25/638129177601588518_iphone-14prm-tim-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 112,
+      "ProductId": 38,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109492830254873_oppo-reno8-t-5g-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109492829105392_oppo-reno8-t-5g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/30/638106985759750453_oppo-reno8-t-5g-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109492830254873_oppo-reno8-t-5g-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/30/638106985758417050_oppo-reno8-t-5g-den-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 113,
+      "ProductId": 38,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109492842561801_oppo-reno8-t-5g-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109492829105392_oppo-reno8-t-5g-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/30/638106988530845194_oppo-reno8-t-5g-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109492832529871_oppo-reno8-t-5g-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/30/638106988528390612_oppo-reno8-t-5g-vang-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 114,
+      "ProductId": 39,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897277145731_oppo-reno8-4g-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897275895651_oppo-reno8-4g-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897276364359_oppo-reno8-4g-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897276364359_oppo-reno8-4g-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897275426946_oppo-reno8-4g-vang-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 115,
+      "ProductId": 39,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897276364359_oppo-reno8-4g-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897276208085_oppo-reno8-4g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897276051836_oppo-reno8-4g-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897276208085_oppo-reno8-4g-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897275583126_oppo-reno8-4g-den-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 116,
+      "ProductId": 40,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699212153235837_oppo-a55-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699212158079210_oppo-a55-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699212156516676_oppo-a55-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699212153547860_oppo-a55-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699212155422951_oppo-a55-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 117,
+      "ProductId": 40,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/21/637834586191851078_oppo-a55-xanhla-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/21/637834586191069912_oppo-a55-xanhla-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/21/637834586195288656_oppo-a55-xanhla-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/21/637834586193570008_oppo-a55-xanhla-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/21/637834586195915126_oppo-a55-xanhla-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 118,
+      "ProductId": 40,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699216670141867_oppo-a55-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699216667016454_oppo-a55-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699216668266582_oppo-a55-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699216667016454_oppo-a55-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/15/637699216665454059_oppo-a55-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 119,
+      "ProductId": 41,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998707641402834_oppo-a57-4g-128gb-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998707640621584_oppo-a57-4g-128gb-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998707642184048_oppo-a57-4g-128gb-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998707641715269_oppo-a57-4g-128gb-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998707639059029_oppo-a57-4g-128gb-vang-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 120,
+      "ProductId": 41,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/27/637919436417203150_oppo-a57-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998711564810587_oppo-a57-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/21/637914178034241322_oppo-a57-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998708773288019_oppo-a57-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/21/637914178033616026_oppo-a57-xanh-3.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 121,
+      "ProductId": 41,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/27/637919437068621162_oppo-a57-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998708770319266_oppo-a57-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/17/637910569084038088_oppo-a57-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/27/637998708771256795_oppo-a57-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/17/637910569083881950_oppo-a57-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 122,
+      "ProductId": 42,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016267842800026_oppo-a17-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016280150205579_oppo-a17-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016280150427116_oppo-a17-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016280150741437_oppo-a17-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016280148515330_oppo-a17-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 123,
+      "ProductId": 42,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016267842487404_oppo-a17-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016278092104929_oppo-a17-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016278092261070_oppo-a17-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016278093338357_oppo-a17-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016278087001775_oppo-a17-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 124,
+      "ProductId": 43,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862729276175_oppo-a17k-vang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862728065151_oppo-a17k-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/26/638023776669197757_oppo-a17k-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862728645090_oppo-a17k-vang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/26/638023776668416355_oppo-a17k-vang-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 125,
+      "ProductId": 43,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862729276175_oppo-a17k-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862728227665_oppo-a17k-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/26/638023775851267307_oppo-a17k-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/2/638029862728979435_oppo-a17k-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/26/638023775850076020_oppo-a17k-xanh-2.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 126,
+      "ProductId": 44,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/21/637624918161746288_oppo-reno6-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/21/637624918162839828_oppo-reno6-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/21/637624918157683423_oppo-reno6-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/21/637624918163621115_oppo-reno6-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/21/637624918153620815_oppo-reno6-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 127,
+      "ProductId": 45,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295035080684_oppo-find-x5-pro-trang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295033986858_oppo-find-x5-pro-trang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295031330586_oppo-find-x5-pro-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295033674392_oppo-find-x5-pro-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295031330586_oppo-find-x5-pro-trang-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 128,
+      "ProductId": 45,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295035080684_oppo-find-x5-pro-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295035080684_oppo-find-x5-pro-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295032736900_oppo-find-x5-pro-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295035080684_oppo-find-x5-pro-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295032268120_oppo-find-x5-pro-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 129,
+      "ProductId": 46,
+      "ColorName": "Bạc",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730059696400830_oppo-a95-bac-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730059695619518_oppo-a95-bac-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730059695932032_oppo-a95-bac-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730059695619518_oppo-a95-bac-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/18/637728698842651830_oppo-a95-bac-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 130,
+      "ProductId": 46,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730043528786549_oppo-a95-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730043527380333_oppo-a95-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730043527849035_oppo-a95-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730043527224050_oppo-a95-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/20/637730043527067786_oppo-a95-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 131,
+      "ProductId": 47,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/28/637816814848818566_oppo-reno7-z-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/28/637816847405861842_oppo-reno7-z-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/28/637816847409611807_oppo-reno7-z-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/28/637816847403986651_oppo-reno7-z-den-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 132,
+      "ProductId": 48,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/8/637613308886003800_oppo-reno6z-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/8/637613328718386038_oppo-reno6z-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/8/637613328718698492_oppo-reno6z-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/8/637613586594727431_oppo-reno6z-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/8/637613328812450235_oppo-reno6z-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 133,
+      "ProductId": 49,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/24/637733878453057229_oppo-a16k-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/24/637733878453213387_oppo-a16k-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/24/637733878452744673_oppo-a16k-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/24/637733878453213387_oppo-a16k-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/24/637733878453057229_oppo-a16k-xanh-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 134,
+      "ProductId": 49,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637801040844385368_oppo-a16k-black-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637801040844385368_oppo-a16k-black-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637801040844229145_oppo-a16k-black-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637801040844385368_oppo-a16k-black-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637801040843916628_oppo-a16k-black-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 135,
+      "ProductId": 50,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149015124211308_oppo-find-n2-flip-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/15/638144856428155829_oppo-find-n2-flip-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149015123890717_oppo-find-n2-flip-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/15/638144856428312644_oppo-find-n2-flip-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/15/638144856426586730_oppo-find-n2-flip-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 136,
+      "ProductId": 50,
+      "ColorName": "Tím",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149015245215675_oppo-find-n2-flip-tim-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/15/638144857816571725_oppo-find-n2-flip-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149015247935197_oppo-find-n2-flip-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/15/638144857817056370_oppo-find-n2-flip-tim-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/15/638144857815324025_oppo-find-n2-flip-tim-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 137,
+      "ProductId": 51,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016907741022962_nokia-5710-xpressaudio-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016907739904315_nokia-5710-xpressaudio-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016907737537929_nokia-5710-xpressaudio-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016907738164196_nokia-5710-xpressaudio-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016907739434913_nokia-5710-xpressaudio-den-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 138,
+      "ProductId": 51,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016911095524490_nokia-5710-xpressaudio-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016911094945896_nokia-5710-xpressaudio-trang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016911093886202_nokia-5710-xpressaudio-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016911093886202_nokia-5710-xpressaudio-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016911092774046_nokia-5710-xpressaudio-trang-5.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 139,
+      "ProductId": 52,
+      "ColorName": "Xám",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149295316936298_nokia-g22-xam-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149295317093084_nokia-g22-xam-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149295316100533_nokia-g22-xam-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149295317093084_nokia-g22-xam-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149295315169638_nokia-g22-xam-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 140,
+      "ProductId": 52,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149291126158254_nokia-g22-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149291125376259_nokia-g22-xanh-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149291125370474_nokia-g22-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149291125703944_nokia-g22-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149291123956101_nokia-g22-xanh-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 141,
+      "ProductId": 53,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607587513173161_nokia-110-4g-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607587506783045_nokia-110-4g-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607587504683004_nokia-110-4g-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607587508403067_nokia-110-4g-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 142,
+      "ProductId": 53,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607591141873936_nokia-110-4g-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607591137029737_nokia-110-4g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607591142029819_nokia-110-4g-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607591137185844_nokia-110-4g-den-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 143,
+      "ProductId": 53,
+      "ColorName": "Vàng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607604378208335_nokia-110-4g-vang-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607604381802036_nokia-110-4g-vang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607604383520773_nokia-110-4g-vang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607604379770751_nokia-110-4g-vang-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 144,
+      "ProductId": 54,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607688533086625_nokia-105-4g-do-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607688524805289_nokia-105-4g-do-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607688524649073_nokia-105-4g-do-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607688532149163_nokia-105-4g-do-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 145,
+      "ProductId": 54,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607687653384467_nokia-105-4g-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607687653696997_nokia-105-4g-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607687651509400_nokia-105-4g-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607687654790746_nokia-105-4g-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 146,
+      "ProductId": 54,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607680398418295_nokia-105-4g-den-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607680392949375_nokia-105-4g-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607680393105673_nokia-105-4g-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/1/637607680400918485_nokia-105-4g-den-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 147,
+      "ProductId": 55,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/18/637649100605269420_nokia-c30-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/18/637649100603394453_nokia-c30-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/18/637649100597144506_nokia-c30-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/18/637649100598550733_nokia-c30-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 148,
+      "ProductId": 56,
+      "ColorName": "Xanh lá",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408832231770650_nokia-215-xanh-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408832231280641_nokia-215-xanh-2.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408832231310642_nokia-215-xanh-3.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408832231770650_nokia-215-xanh-4.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408832230840627_nokia-215-xanh-5.png"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 149,
+      "ProductId": 56,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408828200221858_nokia-215-den-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408828200051906_nokia-215-den-2.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408828200141879_nokia-215-den-3.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408828200441878_nokia-215-den-4.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408828199861949_nokia-215-den-5.png"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 150,
+      "ProductId": 57,
+      "ColorName": "Đen",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/15/637988559501334883_nokia-2660-flip-den-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/15/637988559501022265_nokia-2660-flip-den-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/15/637988559500866058_nokia-2660-flip-den-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/15/637988559499928473_nokia-2660-flip-den-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/15/637988559501178515_nokia-2660-flip-den-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 151,
+      "ProductId": 58,
+      "ColorName": "Đỏ",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132938805_nokia-8210-4g-do-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294131688754_nokia-8210-4g-do-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294130282503_nokia-8210-4g-do-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132626253_nokia-8210-4g-do-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294128876251_nokia-8210-4g-do-1.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 152,
+      "ProductId": 58,
+      "ColorName": "Xanh",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132626253_nokia-8210-4g-xanh-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294131376229_nokia-8210-4g-xanh-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294130282503_nokia-8210-4g-xanh-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132157550_nokia-8210-4g-xanh-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294128094998_nokia-8210-4g-xanh-4.jpg"
+      ],
+      "Quantity": "10"
+    },
+    {
+      "id": 153,
+      "ProductId": 58,
+      "ColorName": "Trắng",
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132471151_nokia-8210-4g-trang-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294131220023_nokia-8210-4g-trang-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294130282503_nokia-8210-4g-trang-2.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132626253_nokia-8210-4g-trang-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294128563706_nokia-8210-4g-trang-1.jpg"
+      ],
+      "Quantity": "10"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+.btn-delete {
+  border: 0;
+  background-color: #fff;
+  color: #939cac;
+}
+.btn-delete:hover {
+  color: #828b98;
+}
+
+.btn-plus {
+  border: 1px solid #e1e4e6;
+  height: 100%;
+}
+
+.btn-minus {
+  border: 1px solid #e1e4e6;
+  height: 100%;
+}
+.product-name {
+  color: black !important;
+}
+
+.product-name:hover {
+  text-decoration: none;
+}

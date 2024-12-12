@@ -1,0 +1,1189 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "Name": "Samsung Galaxy Z Flip4 5G 128GB",
+      "Category_ID": 1,
+      "Price": 15990000,
+      "SalePrice": 0.05,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/8/10/637957658354316100_samsung-galaxy-z-flip4-tim-1.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.7 inch, Phụ: 1.9 inch, Dynamic AMOLED 2X, FHD+, 1080 x 2636 Pixels",
+        "Rear_camera": "12.0 MP + 12.0 MP",
+        "Camera_Selfie": "10.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 8+ Gen 1",
+        "Battery_capacity": "3700 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Việt Nam",
+        "Release time": "08/2022"
+      }
+    },
+    {
+      "id": 2,
+      "Name": "Samsung Galaxy S22 5G 128GB",
+      "Category_ID": 1,
+      "Price": 12490000,
+      "SalePrice": 0.3,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/23/637941779749495327_samsung-galaxy-s22-bora-purple-1.jpg",
+      "Specifications": {
+        "Screen": "6.1 inch, Dynamic AMOLED 2X, FHD+, 1080 x 2340 Pixels",
+        "Rear_camera": "50.0 MP + 12.0 MP + 10.0 MP",
+        "Camera_Selfie": "10.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 8 Gen 1",
+        "Battery_capacity": "3700 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Việt Nam / Trung Quốc",
+        "Release time": "08/2022"
+      }
+    },
+    {
+      "id": 3,
+      "Name": "Samsung Galaxy S23 Ultra 5G 256GB",
+      "Category_ID": 1,
+      "Price": 25990000,
+      "SalePrice": 0.3,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/2/638108933021851432_samsung-galaxy-s23-ultra-xanh-1.jpg",
+      "Specifications": {
+        "Screen": "6.8 inch, Dynamic AMOLED 2X, QHD+, 1440 x 3088 Pixels",
+        "Rear_camera": "200.0 MP + 12.0 MP + 10.0 MP + 10.0 MP",
+        "Camera_Selfie": "12.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "256 GB",
+        "CPU": "Snapdragon 8 Gen 2",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 13.0",
+        "Origin": "Việt Nam / Trung Quốc",
+        "Release time": "02/2023"
+      }
+    },
+    {
+      "id": 4,
+      "Name": "Samsung Galaxy Z Fold4 5G 256GB",
+      "Category_ID": 1,
+      "Price": 29990000,
+      "SalePrice": 0,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/4/10/638167221773541058_samsung-galaxy-z-fold4-do-1.jpg",
+      "Specifications": {
+        "Screen": "Phụ: 6.2 inch, Chính: 7.6 inch, Dynamic AMOLED 2X, WXGA+, Màn hình chính: 2176 x 1812 Pixels",
+        "Rear_camera": "50.0 MP + 12.0 MP + 10.0 MP",
+        "Camera_Selfie": "10.0 MP + 4.0 MP",
+        "RAM": "12 GB",
+        "Internal_memory": "256 GB",
+        "CPU": "Snapdragon 8+ Gen 1",
+        "Battery_capacity": "4400 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Việt Nam",
+        "Release time": "04/2023"
+      }
+    },
+    {
+      "id": 5,
+      "Name": "Samsung Galaxy A34 5G",
+      "Category_ID": 1,
+      "Price": 7490000,
+      "SalePrice": 0.05,
+      "Quantity": 10,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204338060434614_samsung-galaxy-a34-den-1.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.6 inch, Super AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "48.0 MP + 8.0 MP + 5.0 MP",
+        "Camera_Selfie": "13.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Dimensity 1080",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 13.0",
+        "Origin": "Trung Quốc / Việt Nam",
+        "Release time": "3/2023"
+      }
+    },
+    {
+      "id": 6,
+      "Name": "Samsung Galaxy A54 5G 128GB",
+      "Category_ID": 1,
+      "Price": 9190000,
+      "SalePrice": 0.05,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204321010051997_samsung-galaxy-a54-5g-den-1.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.4 inch, Super AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "50.0 MP + 12.0 MP + 5.0 MP",
+        "Camera_Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Exynos 1380",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc / Việt Nam",
+        "Release time": "3/2023"
+      }
+    },
+    {
+      "id": 7,
+      "Name": "Samsung Galaxy A14 4G",
+      "Category_ID": 1,
+      "Price": 3790000,
+      "SalePrice": 0.05,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204362401987928_samsung-galaxy-a14-4g-den-2.jpg",
+      "Specifications": {
+        "Screen": "6.6 inch, PLS LCD, FHD+, 1080 x 2408 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "13.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Exynos 850",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc / Việt Nam",
+        "Release time": "3/2023"
+      }
+    },
+    {
+      "id": 8,
+      "Name": "Samsung Galaxy A23 5G",
+      "Category_ID": 1,
+      "Price": 4890000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/19/638017839470367776_samsung-galaxy-a23-5g-den-2.jpg",
+      "Specifications": {
+        "Screen": "6.6 inch, PLS LCD, FHD+, 1080 x 2408 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "13.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 695 5G",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc / Việt Nam",
+        "Release time": "3/2023"
+      }
+    },
+    {
+      "id": 9,
+      "Name": "Samsung Galaxy A04s",
+      "Category_ID": 1,
+      "Price": 3490000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204394273382414_samsung-galaxy-a04s-den-4.jpg",
+      "Specifications": {
+        "Screen": "6.5 inch, PLS LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "5.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Exynos 850",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc / Việt Nam",
+        "Release time": "2022"
+      }
+    },
+    {
+      "id": 10,
+      "Name": "Samsung Galaxy A04",
+      "Category_ID": 1,
+      "Price": 2290000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/5/23/638204396773490668_samsung-galaxy-a04-xanh-5.jpg",
+      "Specifications": {
+        "Screen": "6.5 inch, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "5.0 MP",
+        "RAM": "3 GB",
+        "Internal_memory": "32 GB",
+        "CPU": "Helio P35",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc / Việt Nam",
+        "Release time": "2022"
+      }
+    },
+    {
+      "id": 11,
+      "Name": "Xiaomi Redmi 10A 3GB-64GB",
+      "Category_ID": 2,
+      "Price": 2590000,
+      "SalePrice": 0.02,
+      "Quantity": 10,
+      "Images": [
+        "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/12/21/638072287029793818_Xiaomi-Redmi-10A-2GB-32GB-xam-1.jpg"
+      ],
+      "Specifications": {
+        "Screen": "6.5 inch, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "13.0 MP + 2.0 MP",
+        "Camera_Selfie": "5.0 MP",
+        "RAM": "3 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Helio G25",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "2022"
+      }
+    },
+    {
+      "id": 12,
+      "Name": "Xiaomi Redmi 10 2022 4GB-128GB",
+      "Category_ID": 2,
+      "Price": 3790000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/5/10/637877742594774669_xiaomi-redmi-10-2022-xam-1.jpg",
+      "Specifications": {
+        "Screen": "6.5 inch, IPS LCD, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "50.0 MP + 8.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "8.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Helio G88",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "2022"
+      }
+    },
+    {
+      "id": 13,
+      "Name": "Xiaomi Redmi Note 12 4GB-128GB",
+      "Category_ID": 2,
+      "Price": 4590000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/22/638150992294466598_xiaomi-redmi-note-12-xam-5.jpg",
+      "Specifications": {
+        "Screen": "6.67 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "50.0 MP + 8.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "13.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 685",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "2022"
+      }
+    },
+    {
+      "id": 14,
+      "Name": "Xiaomi 13 Lite 8GB-128GB",
+      "Category_ID": 2,
+      "Price": 8790000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125128408536178_xiaomi-13-lite-den-1.jpg",
+      "Specifications": {
+        "Screen": "6.55 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "50.0 MP + 8.0 MP + 2.0 MP",
+        "Camera_Selfie": "32.0 MP + 8.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 7 Gen 1",
+        "Battery_capacity": "4500 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "2022"
+      }
+    },
+    {
+      "id": 15,
+      "Name": "Xiaomi Redmi A1 2GB-32GB",
+      "Category_ID": 2,
+      "Price": 1890000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/30/638001575577748669_xiaomi-redmi-a1-xanh-5.jpg",
+      "Specifications": {
+        "Screen": "6.52 inch, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "8.0 MP",
+        "Camera_Selfie": "5.0 MP",
+        "RAM": "2 GB",
+        "Internal_memory": "32 GB",
+        "CPU": "Helio A22",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android GO",
+        "Origin": "Trung Quốc",
+        "Release time": "2022"
+      }
+    },
+    {
+      "id": 16,
+      "Name": "Xiaomi Redmi 12C 4GB - 64GB",
+      "Category_ID": 2,
+      "Price": 1890000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646675311035_xiaomi-redmi-12c-xam-1.jpg",
+      "Specifications": {
+        "Screen": "6.71 inch, IPS LCD, HD+, 720 x 1650 Pixels",
+        "Rear_camera": "50.0 MP + 0.08 MP",
+        "Camera_Selfie": "5.0 MP + 5.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Helio G85",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12 (MIUI 13)",
+        "Origin": "Trung Quốc",
+        "Release time": "01/01/2023"
+      }
+    },
+    {
+      "id": 17,
+      "Name": "Xiaomi Redmi Note 11 4GB - 128GB ",
+      "Category_ID": 2,
+      "Price": 3990000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/1/27/637788719726788724_xiaomi-redmi-note-11-xanh-1.jpg",
+      "Specifications": {
+        "Screen": "6.43 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "50.0 MP + 8.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "13.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Snapdragon 680",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "01/2023"
+      }
+    },
+    {
+      "id": 18,
+      "Name": "Xiaomi Redmi Note 11S 8GB - 128GB",
+      "Category_ID": 2,
+      "Price": 4990000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804380953725497_xiaomi-redmi-note-11s-xanh-2.jpg",
+      "Specifications": {
+        "Screen": "6.43 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "108.0 MP + 8.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "16.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Helio G96",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "01/2023"
+      }
+    },
+    {
+      "id": 19,
+      "Name": "Xiaomi Redmi Note 11 Pro 8GB - 128GB",
+      "Category_ID": 2,
+      "Price": 7490000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/2/14/637804673212874594_2.xiaomi-redmi-note-11-pro-4g-trang-4.jpg",
+      "Specifications": {
+        "Screen": "6.67 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "108.0 MP + 8.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "16.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Helio G96",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "02/2023"
+      }
+    },
+    {
+      "id": 20,
+      "Name": "Xiaomi 13 8GB-256GB",
+      "Category_ID": 2,
+      "Price": 17490000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/2/20/638125113177912131_xiaomi-13-den-5.jpg",
+      "Specifications": {
+        "Screen": "6.36 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "50.0 MP + 10.0 MP + 12.0 MP",
+        "Camera_Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "256 GB",
+        "CPU": "Snapdragon 8 Gen 2",
+        "Battery_capacity": "4500 mAh",
+        "Operating_system": "Android 13.0",
+        "Origin": "Trung Quốc",
+        "Release time": "02/2023"
+      }
+    },
+    {
+      "id": 21,
+      "Name": "Vivo V25 Pro 5G 8GB-128GB",
+      "Category_ID": 3,
+      "Price": 10990000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/10/638036697912517443_vivo-v25-pro-5g-xanh-5.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.56 inch, Chính: AMOLED, FHD+, 1080 x 2376 Pixel",
+        "Rear_camera": "64.0 MP + 8.0 MP + 2.0 MP",
+        "Camera_Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Dimensity 1300 5G",
+        "Battery_capacity": "4830 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "11/2022"
+      }
+    },
+    {
+      "id": 22,
+      "Name": "Vivo V25 5G 8GB-128GB",
+      "Category_ID": 3,
+      "Price": 9390000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987658871975174_vivo-v25e-den-1.jpg",
+      "Specifications": {
+        "Screen": "6.44 inch, AMOLED, FHD+, 1080 x 2040 Pixel",
+        "Rear_camera": "64.0 MP + 8.0 MP + 2.0 MP",
+        "Camera_Selfie": "50.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Dimensity 900",
+        "Battery_capacity": "4500 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "10/2022"
+      }
+    },
+    {
+      "id": 23,
+      "Name": "Vivo V25 5G 8GB-128GB",
+      "Category_ID": 3,
+      "Price": 8490000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/14/637987654398636993_vivo-v25e-vang-1.jpg",
+      "Specifications": {
+        "Screen": "6.44 inch, AMOLED, FHD+, 1080 x 2040 Pixel",
+        "Rear_camera": "64.0 MP + 8.0 MP + 2.0 MP",
+        "Camera_Selfie": "50.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Dimensity 900",
+        "Battery_capacity": "4500 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "10/2022"
+      }
+    },
+    {
+      "id": 24,
+      "Name": "Vivo Y35 8GB-128GB",
+      "Category_ID": 3,
+      "Price": 6990000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/10/18/638016883147092027_vivo-y35-vang-3.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.58 inch, Chính: LCD, FHD+, 2408 x 1080 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "16.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 680",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "10/2022"
+      }
+    },
+    {
+      "id": 25,
+      "Name": "Vivo Y22s 8GB-128GB",
+      "Category_ID": 3,
+      "Price": 5990000,
+      "SalePrice": 0.01,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983398316214932_vivo-y22s-xanh-7.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.55 inch, Chính: LCD, HD+, 720 x 1612 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP",
+        "Camera_Selfie": "8.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 680",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2022"
+      }
+    },
+    {
+      "id": 26,
+      "Name": "Vivo T1x 4GB-64GB",
+      "Category_ID": 3,
+      "Price": 4490000,
+      "SalePrice": 0.01,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/21/637939995440901432_vivo-t1x-xanh-1.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.58 inch, Chính: LCD, FHD+, 2408 x 1080 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera_Selfie": "8.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 680",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "07/2022"
+      }
+    },
+    {
+      "id": 27,
+      "Name": "Vivo Y16 4GB-128GB",
+      "Category_ID": 3,
+      "Price": 4490000,
+      "SalePrice": 0.01,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/9/9/637983383787837357_vivo-y16-vang-6.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.51 inch, LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "13.0 MP + 2.0 MP",
+        "Camera_Selfie": "8.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Helio P35",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2022"
+      }
+    },
+    {
+      "id": 28,
+      "Name": "Vivo Y15s 3GB - 32GB",
+      "Category_ID": 3,
+      "Price": 3490000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822857276078_00779950-vivo-y15s-trang-xanh-1.jpg",
+      "Specifications": {
+        "Screen": "6.51 inch, IPS LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "13.0 MP + 2.0 MP",
+        "Camera_Selfie": "8.0 MP",
+        "RAM": "3 GB",
+        "Internal_memory": "32 GB",
+        "CPU": "Helio P35",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2022"
+      }
+    },
+    {
+      "id": 29,
+      "Name": "Vivo Y02 2GB-32GB",
+      "Category_ID": 3,
+      "Price": 2790000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/28/638052549038602052_vivo-y02-xanh-5.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.51 inch, Chính: LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "8.0 MP",
+        "Camera_Selfie": "5.0 MP",
+        "RAM": "2 GB",
+        "Internal_memory": "32 GB",
+        "CPU": "Helio P22",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "12/2022"
+      }
+    },
+    {
+      "id": 30,
+      "Name": "Vivo Y02s 3GB-32GB",
+      "Category_ID": 3,
+      "Price": 3490000,
+      "SalePrice": 0.02,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/7/22/637940794898480222_vivo-y02s-3gb-32gb-xanh-1.jpg",
+      "Specifications": {
+        "Screen": "6.51 inch, IPS LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "8.0 MP",
+        "Camera_Selfie": "5.0 MP",
+        "RAM": "3 GB",
+        "Internal_memory": "32 GB",
+        "CPU": "Helio P22",
+        "Battery_capacity": "5000 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "12/2022"
+      }
+    },
+    {
+      "id": 31,
+      "Name": "iPhone 11 64GB",
+      "Category_ID": 4,
+      "Price": 10480000,
+      "SalePrice": 0.13,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059309890101717_iphone-11-trang-1.jpg",
+      "Specifications": {
+        "Screen": "6.1 inch, IPS LCD, Liquid Retina HD, 828 x 1792 Pixels",
+        "Rear_camera": "12.0 MP + 12.0 MP",
+        "Camera Selfie": "12.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Apple A13 Bionic",
+        "GPU": "Apple GPU 4 nhân",
+        "Battery_capacity": "3110 mAh",
+        "Thẻ sim": "2 - 1 eSIM, 1 Nano SIM",
+        "Operating_system": "iOS 14",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2019"
+      }
+    },
+    {
+      "id": 32,
+      "Name": "iPhone 12 64GB",
+      "Category_ID": 4,
+      "Price": 14990000,
+      "SalePrice": 0.17,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/6/638059237853240136_iphone-12-xanhla-1.jpg",
+      "Specifications": {
+        "Screen": "6.1 inch, OLED, Super Retina XDR, 2532 x 1170 Pixels",
+        "Rear_camera": "12.0 MP + 12.0 MP",
+        "Camera Selfie": "12.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Apple A14 Bionic",
+        "Battery_capacity": "2815 mAh",
+        "Thẻ sim": "2 - 1 eSIM, 1 Nano SIM",
+        "Operating_system": "iOS 14",
+        "Origin": "Trung Quốc",
+        "Release time": "10/2020"
+      }
+    },
+    {
+      "id": 33,
+      "Name": "iPhone 13 128GB",
+      "Category_ID": 4,
+      "Price": 16790000,
+      "SalePrice": 0.12,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/25/637864945998054414_iphone-13-do-5.jpg",
+      "Specifications": {
+        "Screen": "6.1 inch, OLED, Super Retina XDR, 2532 x 1170 Pixels",
+        "Rear_camera": "12.0 MP + 12.0 MP",
+        "Camera Selfie": "12.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Apple A15 Bionic",
+        "GPU": "Apple GPU 5 nhân",
+        "Battery_capacity": "3225 mAh",
+        "Thẻ sim": "1 - 1 eSIM, 1 Nano SIM",
+        "Operating_system": "iOS 15",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2021"
+      }
+    },
+    {
+      "id": 34,
+      "Name": "iPhone 14 128GB",
+      "Category_ID": 4,
+      "Price": 19180000,
+      "SalePrice": 0.13,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054088819837718_ip-14-do-1.jpg",
+      "Specifications": {
+        "Screen": "6.1 inch, Super Retina XDR, 2532 x 1170 Pixels",
+        "Rear_camera": "12.0 MP + 12.0 MP",
+        "Camera Selfie": "12.0 MP",
+        "Internal_memory": "128 GB",
+        "CPU": "Apple A15 Bionic",
+        "Battery_capacity": "20 Giờ",
+        "Thẻ sim": "1 - 1 eSIM, 1 Nano SIM",
+        "Operating_system": "iOS 16",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2022"
+      }
+    },
+    {
+      "id": 35,
+      "Name": "iPhone 14 Plus 128GB",
+      "Category_ID": 4,
+      "Price": 21680000,
+      "SalePrice": 0.13,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054166106341023_ip-14-plus-do-1.jpg",
+      "Specifications": {
+        "Screen": "6.7 inch, Super Retina XDR, 2778 x 1284 Pixels",
+        "Rear_camera": "12.0 MP + 12.0 MP",
+        "Camera Selfie": "12.0 MP",
+        "Internal_memory": "128 GB",
+        "CPU": "Apple A15 Bionic",
+        "Battery_capacity": "26 Giờ",
+        "Thẻ sim": "1 - 1 eSIM, 1 Nano SIM",
+        "Operating_system": "iOS 16",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2022"
+      }
+    },
+    {
+      "id": 36,
+      "Name": "iPhone 14 Pro 128GB",
+      "Category_ID": 4,
+      "Price": 24880000,
+      "SalePrice": 0.11,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054215482172772_ip-14-pro-vang-1.jpg",
+      "Specifications": {
+        "Screen": "6.1 inch, Super Retina XDR, 2556 x 1179 Pixels",
+        "Rear_camera": "48.0 MP + 12.0 MP",
+        "Camera Selfie": "12.0 MP",
+        "Internal_memory": "128 GB",
+        "CPU": "Apple A16 Bionic",
+        "Battery_capacity": "23 Giờ",
+        "Thẻ sim": "1 - 1 eSIM, 1 Nano SIM",
+        "Operating_system": "iOS 16",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2022"
+      }
+    },
+    {
+      "id": 37,
+      "Name": "iPhone 14 Pro Max 128GB",
+      "Category_ID": 4,
+      "Price": 26580000,
+      "SalePrice": 0.11,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/30/638054218956629637_ip-14-pro-max-den-1.jpg",
+      "Specifications": {
+        "Screen": "6.7 inch, Super Retina XDR, 2796 x 1290 Pixels",
+        "Rear_camera": "48.0 MP + 12.0 MP + 12.0 MP",
+        "Camera Selfie": "12.0 MP",
+        "Internal_memory": "128 GB",
+        "CPU": "Apple A16 Bionic",
+        "Battery_capacity": "29 Giờ",
+        "Thẻ sim": "1 - 1 eSIM, 1 Nano SIM",
+        "Operating_system": "iOS 16",
+        "Origin": "Trung Quốc",
+        "Release time": "09/2022"
+      }
+    },
+    {
+      "id": 38,
+      "Name": "OPPO Reno8 T 5G 128GB",
+      "Category_ID": 5,
+      "Price": 9490000,
+      "SalePrice": 0.05,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/30/638106988528390612_oppo-reno8-t-5g-vang-4.jpg",
+      "Specifications": {
+        "Screen": "6.7 inch, AMOLED, FHD+, 1080 x 2412 Pixels",
+        "Rear_camera": "108.0 MP + 2.0 MP + 2.0 MP",
+        "Camera Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 695 5G",
+        "GPU": "Adreno 619",
+        "Battery_capacity": "4800 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 13.0 (ColorOS 13)",
+        "Origin": "Trung Quốc",
+        "Release time": "02/2023"
+      }
+    },
+    {
+      "id": 39,
+      "Name": "OPPO Reno8 4G 8GB - 256GB",
+      "Category_ID": 5,
+      "Price": 6990000,
+      "SalePrice": 0.22,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/5/637952897275583126_oppo-reno8-4g-den-3.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.4 inch, Chính: AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "64.0 MP + 2.0 MP + 2.0 MP",
+        "Camera Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "256 GB",
+        "CPU": "Snapdragon 680",
+        "GPU": "Adreno 610",
+        "Battery_capacity": "4500 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 12 (ColorOS 12.1)",
+        "Origin": "Trung Quốc",
+        "Release time": "04/2022"
+      }
+    },
+    {
+      "id": 40,
+      "Name": "OPPO A55 4GB-64GB",
+      "Category_ID": 5,
+      "Price": 3690000,
+      "SalePrice": 0.08,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/21/637834586195915126_oppo-a55-xanhla-5.jpg",
+      "Specifications": {
+        "Screen": "6.5 inch, IPS LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera Selfie": "16.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Helio G35",
+        "GPU": "PowerVR GE8320",
+        "Battery_capacity": "5000 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "03/2022"
+      }
+    },
+    {
+      "id": 41,
+      "Name": "OPPO A57 4GB-128GB",
+      "Category_ID": 5,
+      "Price": 4190000,
+      "SalePrice": 0.16,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/17/637910569083881950_oppo-a57-den-1.jpg",
+      "Specifications": {
+        "Screen": "6.56 inch, LCD, HD+, 720 x 1612 Pixels",
+        "Rear_camera": "13.0 MP + 2.0 MP",
+        "Camera Selfie": "8.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Helio G35",
+        "GPU": "PowerVR GE8320",
+        "Battery_capacity": "5000 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 12 (ColorOS 12.1)",
+        "Origin": "Trung Quốc",
+        "Release time": "6/2022"
+      }
+    },
+    {
+      "id": 42,
+      "Name": "OPPO A17 4GB-64GB",
+      "Category_ID": 5,
+      "Price": 3690000,
+      "SalePrice": 0.08,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/17/638016278087001775_oppo-a17-den-5.jpg",
+      "Specifications": {
+        "Screen": "6.56 inch, LCD, HD+, 720 x 1612 Pixels",
+        "Rear_camera": "50.0 MP + VGA",
+        "Camera Selfie": "5.0 MP",
+        "RAM": "4 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Helio G35",
+        "GPU": "PowerVR GE8320",
+        "Battery_capacity": "5000 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 12 (ColorOS 12.1)",
+        "Origin": "Trung Quốc",
+        "Release time": "10/2022"
+      }
+    },
+    {
+      "id": 43,
+      "Name": "OPPO A17k 3GB-64GB",
+      "Category_ID": 5,
+      "Price": 2990000,
+      "SalePrice": 0.09,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/26/638023775850076020_oppo-a17k-xanh-2.jpg",
+      "Specifications": {
+        "Screen": "6.56 inch, LCD, HD+, 720 x 1612 Pixels",
+        "Rear_camera": "8.0 MP",
+        "Camera Selfie": "5.0 MP",
+        "RAM": "3 GB",
+        "Internal_memory": "64 GB",
+        "CPU": "Helio G35",
+        "GPU": "PowerVR GE8320",
+        "Battery_capacity": "5000 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 12 (ColorOS 12.1)",
+        "Origin": "Trung Quốc",
+        "Release time": "10/2022"
+      }
+    },
+    {
+      "id": 44,
+      "Name": "Oppo Reno6 5G",
+      "Category_ID": 5,
+      "Price": 6990000,
+      "SalePrice": 0.46,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/21/637624918153620815_oppo-reno6-den-5.jpg",
+      "Specifications": {
+        "Screen": "6.43 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "64.0 MP + 8.0 MP + 2.0 MP",
+        "Camera Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Dimensity 900 5G",
+        "GPU": "Mali-G68 MC4",
+        "Battery_capacity": "4300 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "07/2021"
+      }
+    },
+    {
+      "id": 45,
+      "Name": "OPPO Find X5 Pro 12GB - 256GB",
+      "Category_ID": 5,
+      "Price": 22990000,
+      "SalePrice": 0.3,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982295035080684_oppo-find-x5-pro-den-5.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.7 inch, Chính: AMOLED, QHD+, 1440 x 3216 Pixels",
+        "Rear_camera": "50.0 MP + 50.0 MP + 13.0 MP",
+        "Camera Selfie": "32.0 MP",
+        "RAM": "12 GB",
+        "Internal_memory": "256 GB",
+        "CPU": "Snapdragon 8 Gen 1",
+        "GPU": "Adreno 730",
+        "Battery_capacity": "5000 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM hoặc 1 eSIM, 1 Nano SIM",
+        "Operating_system": "Android 12 (ColorOS 12)",
+        "Origin": "Trung Quốc",
+        "Release time": "05/2022"
+      }
+    },
+    {
+      "id": 46,
+      "Name": "OPPO A95 8GB-128GB",
+      "Category_ID": 5,
+      "Price": 5490000,
+      "SalePrice": 0.15,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/18/637728698842651830_oppo-a95-bac-5.jpg",
+      "Specifications": {
+        "Screen": "6.43 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "48.0 MP + 2.0 MP + 2.0 MP",
+        "Camera Selfie": "16.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 662",
+        "GPU": "Adreno 610",
+        "Battery_capacity": "5000 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "2021"
+      }
+    },
+    {
+      "id": 47,
+      "Name": "OPPO Reno7 Z 5G 8GB - 128GB",
+      "Category_ID": 5,
+      "Price": 6490000,
+      "SalePrice": 0.35,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/28/637816847403986651_oppo-reno7-z-den-4.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.43 inch, Chính: AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "64.0 MP + 2.0 MP + 2.0 MP",
+        "Camera Selfie": "16.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "Snapdragon 695 5G",
+        "GPU": "Adreno 619",
+        "Battery_capacity": "4500 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 11 (ColorOS 12)",
+        "Origin": "Trung Quốc",
+        "Release time": "03/2022"
+      }
+    },
+    {
+      "id": 48,
+      "Name": "OPPO Reno6 Z 5G",
+      "Category_ID": 5,
+      "Price": 5990000,
+      "SalePrice": 0.37,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/8/637613328812450235_oppo-reno6z-den-5.jpg",
+      "Specifications": {
+        "Screen": "6.43 inch, AMOLED, FHD+, 1080 x 2400 Pixels",
+        "Rear_camera": "64.0 MP + 8.0 MP + 2.0 MP",
+        "Camera Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "128 GB",
+        "CPU": "MediaTek Dimensity 800U",
+        "Battery_capacity": "4310 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "07/2021"
+      }
+    },
+    {
+      "id": 49,
+      "Name": "OPPO A16k 3GB-32GB",
+      "Category_ID": 5,
+      "Price": 2490000,
+      "SalePrice": 0.24,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/10/637801040843916628_oppo-a16k-black-5.jpg",
+      "Specifications": {
+        "Screen": "6.52 inch, IPS LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "13.0 MP",
+        "Camera Selfie": "5.0 MP",
+        "RAM": "3 GB",
+        "Internal_memory": "32 GB",
+        "CPU": "Helio G35",
+        "GPU": "PowerVR GE8320",
+        "Battery_capacity": "4230 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc",
+        "Release time": "11/2021"
+      }
+    },
+    {
+      "id": 50,
+      "Name": "OPPO Find N2 Flip",
+      "Category_ID": 5,
+      "Price": 19990000,
+      "SalePrice": 0,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/15/638144857815324025_oppo-find-n2-flip-tim-5.jpg",
+      "Specifications": {
+        "Screen": "Chính: 6.8 inch, Phụ: 3.26 inch, Chính: AMOLED, FHD+, 2520 x 1080 Pixels",
+        "Rear_camera": "50.0 MP + 8.0 MP",
+        "Camera Selfie": "32.0 MP",
+        "RAM": "8 GB",
+        "Internal_memory": "256 GB",
+        "CPU": "Mediatek Dimensity 9000+ 5G",
+        "GPU": "Mali-G710 MC10",
+        "Battery_capacity": "4300 mAh",
+        "Thẻ sim": "2 - 2 Nano SIM",
+        "Operating_system": "Android 13.0 (ColorOS 13)",
+        "Origin": "Trung Quốc",
+        "Release time": "03/2023"
+      }
+    },
+    {
+      "id": 51,
+      "Name": "Nokia 5710 XpressAudio",
+      "Category_ID": 6,
+      "Price": 1390000,
+      "SalePrice": 0.22,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/18/638016911092774046_nokia-5710-xpressaudio-trang-5.jpg",
+      "Specifications": {
+        "Screen": "2.4 inch, TFT LCD, QVGA, 320 x 240 Pixels",
+        "Rear_camera": "0.3 MP",
+        "RAM": "48 MB",
+        "Internal_memory": "128 MB",
+        "CPU": "Unisoc T107",
+        "Battery_capacity": "1450 mAh",
+        "Operating_system": "Nokia S30+",
+        "Origin": "Trung Quốc",
+        "Release time": "10/2022"
+      }
+    },
+    {
+      "id": 52,
+      "Name": "Nokia G22 4GB-128GB",
+      "Category_ID": 6,
+      "Price": 3690000,
+      "SalePrice": 0.08,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149295315169638_nokia-g22-xam-1.jpg",
+      "Specifications": {
+        "Screen": "6.5 inch, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "50.0 MP + 2.0 MP + 2.0 MP",
+        "Camera Selfie": "8.0 MP",
+        "RAM": "4 GB",
+        "CPU": "Unisoc T606",
+        "GPU": "Mali-G57 MP1",
+        "Battery_capacity": "5050 mAh",
+        "Operating_system": "Android 12",
+        "Origin": "Trung Quốc",
+        "Release time": "25/02/2023"
+      }
+    },
+    {
+      "id": 53,
+      "Name": "Nokia 110 DS 4G",
+      "Category_ID": 6,
+      "Price": 720000,
+      "SalePrice": 0.17,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/665x374/filters:quality(100):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/3/637609472341229945_nokia-110-4g-ban-phim.png",
+      "Specifications": {
+        "Screen": "1.8 inch, QQVGA, QQVGA",
+        "Rear_camera": "0.08 MP",
+        "RAM": "48 MB",
+        "Internal_memory": "128 MB",
+        "CPU": "Unisoc T107",
+        "Battery_capacity": "1020 mAh",
+        "Operating_system": "Nokia S30+",
+        "Origin": "Trung Quốc",
+        "Release time": "06/2021"
+      }
+    },
+    {
+      "id": 54,
+      "Name": "Nokia 105 DS 4G",
+      "Category_ID": 6,
+      "Price": 670000,
+      "SalePrice": 0.18,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/665x374/filters:quality(100):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/5/637610833631043132_nokia-105-4g-pin.png",
+      "Specifications": {
+        "Screen": "1.8 inch, QQVGA, QQVGA",
+        "RAM": "48 MB",
+        "Internal_memory": "128 MB",
+        "CPU": "Unisoc T107",
+        "Battery_capacity": "1020 mAh",
+        "Operating_system": "Nokia S30+",
+        "Origin": "Trung Quốc",
+        "Release time": "06/2021"
+      }
+    },
+    {
+      "id": 55,
+      "Name": "Nokia C30 3GB-32GB",
+      "Category_ID": 6,
+      "Price": 1990000,
+      "SalePrice": 0.38,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/665x374/filters:quality(100):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/23/637653499921477663_nokia-c30-thiet-ke.png",
+      "Specifications": {
+        "Screen": "6.82 inch, IPS LCD, HD+, 720 x 1600 Pixels",
+        "Rear_camera": "13.0 MP + 2.0 MP",
+        "Camera Selfie": "5.0 MP",
+        "RAM": "3 GB",
+        "Internal_memory": "32 GB",
+        "CPU": "Spreadtrum SC9863A",
+        "Battery_capacity": "6000 mAh",
+        "Operating_system": "Android 11",
+        "Origin": "Trung Quốc"
+      }
+    },
+    {
+      "id": 56,
+      "Name": "Nokia 215 DS 4G",
+      "Category_ID": 6,
+      "Price": 990000,
+      "SalePrice": 0,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/13/637408828199861949_nokia-215-den-5.png",
+      "Specifications": {
+        "Screen": "Chính: 2.4 inch, TFT LCD, QVGA, 320 x 240 Pixels",
+        "RAM": "64 MB",
+        "Internal_memory": "128 MB",
+        "CPU": "Unisoc T117",
+        "Battery_capacity": "1150 mAh",
+        "Operating_system": "Nokia S30+",
+        "Origin": "Trung Quốc",
+        "Release time": "01/2021"
+      }
+    },
+    {
+      "id": 57,
+      "Name": "Nokia 2660 Flip 4G",
+      "Category_ID": 6,
+      "Price": 1590000,
+      "SalePrice": 0,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/15/637988559501334883_nokia-2660-flip-den-2.jpg",
+      "Specifications": {
+        "Screen": "Chính: 2.8 inch, Phụ: 1.77 inch, QVGA, 320 x 240 Pixels",
+        "Rear_camera": "0.3 MP",
+        "RAM": "48 MB",
+        "Internal_memory": "128 MB",
+        "CPU": "Unisoc T107",
+        "Battery_capacity": "1450 mAh",
+        "Operating_system": "Nokia S30+",
+        "Origin": "Trung Quốc",
+        "Release time": "9/2022"
+      }
+    },
+    {
+      "id": 58,
+      "Name": "Nokia 8210 4G",
+      "Category_ID": 6,
+      "Price": 1590000,
+      "SalePrice": 0,
+      "Images": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952294132626253_nokia-8210-4g-xanh-5.jpg",
+      "Specifications": {
+        "Screen": "2.8 inch, QVGA, 320 x 240 Pixels",
+        "Rear_camera": "0.3 MP",
+        "RAM": "48 MB",
+        "Internal_memory": "128 MB",
+        "CPU": "Unisoc T107",
+        "Battery_capacity": "1450 mAh",
+        "Operating_system": "Nokia S30+",
+        "Origin": "Trung Quốc",
+        "Release time": "08/2022"
+      }
+    }
+  ]
+}

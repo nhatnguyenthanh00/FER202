@@ -1,0 +1,84 @@
+:root {
+  --swiper-navigation-size: 20px;
+}
+.product-name {
+  font-weight: 600;
+}
+
+.swiper-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.swiper-button-prev {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: solid 1px #ced4da;
+  background-color: #fff;
+}
+.swiper-button-prev::after {
+  margin-left: 4px;
+  width: 20px;
+  height: 20px;
+  color: #7f8489;
+}
+.swiper-button-next {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: solid 1px #ced4da;
+  background-color: #fff;
+}
+.swiper-button-next::after {
+  margin: 20px;
+  width: 20px;
+  height: 20px;
+  color: #7f8489;
+}
+
+.product-spe {
+  border: 1px solid #ced4da;
+  border-radius: 3px;
+}
+.buy-btn {
+  background-color: #cb1c22 !important;
+  border: 0;
+  color: #fff;
+}
+.buy-btn:hover {
+  background-color: #ae1427 !important;
+  color: #fff;
+}
+.product-spe {
+  margin-top: 20px;
+}
+
+.list-unstyled {
+  list-style: none;
+  padding: 0;
+}
+
+.list-unstyled li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.spec-key {
+  font-weight: bold;
+}
+
+.spec-value {
+  color: #888;
+}
+
+.color-option image {
+  box-sizing: border-box;
+}
+.color-option div:first-child:hover {
+  box-sizing: border-box;
+  border: 1px solid rgb(234, 34, 34);
+  border-radius: 6px;
+}

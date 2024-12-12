@@ -1,0 +1,59 @@
+{
+    "admin": [
+        {
+            "id": "RC1639",
+            "firstName": "Davida",
+            "lastName": "Dust",
+            "phone": "984-864-0283",
+            "address": "8213 Milwaukee Alley",
+            "email": "ddust0@wp.com",
+            "dateOfBirth": "9/29/2002",
+            "account": "AF89520724",
+            "password": "=.*a)=.*2)h{8,}"
+        },
+        {
+            "id": "KC2971",
+            "firstName": "Ange",
+            "lastName": "Castelletti",
+            "phone": "527-139-9281",
+            "address": "825 Cambridge Center",
+            "email": "acastelletti1@wufoo.com",
+            "dateOfBirth": "11/22/1969",
+            "account": "CQ93719869",
+            "password": "=.*M=.*7)k{8,}"
+        },
+        {
+            "id": "AO4702",
+            "firstName": "Elwin",
+            "lastName": "Jeannin",
+            "phone": "883-721-8360",
+            "address": "63279 Oriole Pass",
+            "email": "ejeannin2@weebly.com",
+            "dateOfBirth": "6/11/1964",
+            "account": "MS66652092",
+            "password": "=.*e)=.*3Z{8,}"
+        },
+        {
+            "id": "TU5004",
+            "firstName": "Perry",
+            "lastName": "Emsley",
+            "phone": "576-573-0278",
+            "address": "39 Susan Terrace",
+            "email": "pemsley3@nymag.com",
+            "dateOfBirth": "8/30/1903",
+            "account": "CE65036430",
+            "password": "=.*c)=.*3\\{8,}"
+        },
+        {
+            "id": "XB1793",
+            "firstName": "Shalna",
+            "lastName": "Dawson",
+            "phone": "176-736-4719",
+            "address": "0 Warbler Circle",
+            "email": "sdawson4@dailymotion.com",
+            "dateOfBirth": "10/26/1926",
+            "account": "YZ11597177",
+            "password": "=.*q)=.*5d{8,}"
+        }
+    ]
+}
